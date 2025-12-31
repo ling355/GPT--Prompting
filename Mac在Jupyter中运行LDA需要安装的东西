@@ -1,0 +1,7 @@
+python3 -m pip install jieba -i https://pypi.tuna.tsinghua.edu.cn/simple
+python3 -m pip install spacy -i https://pypi.tuna.tsinghua.edu.cn/simple
+python3 -m spacy download en_core_web_sm
+python3 -m pip install openpyxl
+python3 -m pip install scikit-learn -i https://pypi.tuna.tsinghua.edu.cn/simple
+python3 -m pip install pyLDAvis -i https://pypi.tuna.tsinghua.edu.cn/simple
+python3 -m pip install matplotlib -i https://pypi.tuna.tsinghua.edu.cn/simple
