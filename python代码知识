@@ -1,0 +1,9 @@
+os-Python 内置的 os 模块（Operating System）、用来和操作系统交互，比如：读取文件夹里的文件
+pandas = 专门处理表格数据（Excel / CSV）、加载文本数据
+re-导入 正则表达式（regular expression）模块、用规则批量清洗文本
+spaCy —— 一个工业级 NLP 库、它可以：分词（tokenization）、词性标注（POS）、词形还原（lemmatization）
+导入 Python 内置的 string 模块-快速删除所有标点
+
+os.chdir(file_path)-把“当前工作目录”切换到 data 文件夹
+dic-保护专业词、防止被错误拆分
+mytext：一整段英文字符串
